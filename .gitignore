@@ -1,7 +1,9 @@
 *.py[cod]
-venv/
+.venv/
 .~*
 .idea/
 .vim/
 .vscode/
 .mypy_cache/
+db.sqlite3
+weather/backend/migrations/
